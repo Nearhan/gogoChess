@@ -1,0 +1,4 @@
+neo:
+    image: neo4j/neo4j
+    ports:
+        - "7474:7474"
