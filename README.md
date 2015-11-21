@@ -53,7 +53,7 @@ In this instance you will download the offical neo4j image. Docker will then run
 
 
 
-![stuff](/assets/image.png)
+![stuff](https://raw.githubusercontent.com/Nearhan/gogoChess/master/assests/image.png)
 
 
 
